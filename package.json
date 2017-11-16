@@ -1,0 +1,15 @@
+{
+  "name": "app-bookSearch",
+  "version": "1.0.0",
+  "description": "Basic book listings app in angular.",
+  "main": "index.html",
+  "dependencies": {
+    "serve": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shariq Raza",
+  "license": ""
+}
